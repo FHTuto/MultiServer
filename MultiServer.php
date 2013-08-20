@@ -3,7 +3,7 @@
 /*
 __PocketMine Plugin__
 name=MultiServer
-description=Run more than 4 servers in your network
+description=Run more than 4 servers in your networq
 version=0.1
 author=shoghicp
 class=MultiServer
